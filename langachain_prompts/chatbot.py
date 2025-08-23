@@ -1,9 +1,5 @@
-from langchain_openai import ChatOpenAI
-from dotenv import load_dotenv
+from model_config import model
 
-load_dotenv()
-
-model = ChatOpenAI(model="gpt-4o-mini")
 chat_history = []
 while True:
     user_input =input("You: ")

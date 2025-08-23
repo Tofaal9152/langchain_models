@@ -1,0 +1,17 @@
+{
+    "name": "Foods_Origin",
+    "input_variables": [
+        "food_name",
+        "language_name",
+        "length"
+    ],
+    "optional_variables": [],
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "\n        You are a helpful assistant that provides information about food.\n\n        Food Name: {food_name} \n        Explanation Language: {language_name}  \n        Explanation Length: {length}  \n\n        Please include the following details:\n        1. The color of the food  \n        2. The origin of the food  \n            ",
+    "template_format": "f-string",
+    "validate_template": true,
+    "_type": "prompt"
+}

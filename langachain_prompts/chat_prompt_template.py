@@ -10,7 +10,7 @@ model = ChatOpenAI(model="gpt-4o-mini")
 chat_template = ChatPromptTemplate(
     [
         ("system", "You are a helpful {domain} expert."),
-        ("human", "Explain this {item} ino ne sentence."),
+        ("human", "Explain this {item} in one sentence."),
     ]
 )
 

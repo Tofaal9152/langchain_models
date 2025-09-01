@@ -1,0 +1,15 @@
+LangChain Document Loader Example
+
+LangChain helps developers build applications powered by large language models (LLMs).
+A document loader is the first step in most pipelines. It is responsible for loading data
+from different sources, such as text files, PDFs, web pages, or databases.
+
+This is a simple text file that you can use to test the TextLoader in LangChain.
+
+Key points:
+- Document loaders get the raw data.
+- Text splitters divide documents into smaller chunks.
+- Embeddings convert text into numerical vectors.
+- Vector stores make searching and retrieval efficient.
+
+End of sample file.

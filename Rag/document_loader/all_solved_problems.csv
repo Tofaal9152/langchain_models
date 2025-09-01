@@ -1,0 +1,186 @@
+Serial,Problem Category,Problem Link,Rating,Submission Date
+1,"brute force, implementation, math",2070/problem/B,1100,03.08.2025
+2,"brute force, math",2070/problem/A,800,03.08.2025
+3,strings,2110/problem/B,900,03.08.2025
+4,"implementation, sortings",2110/problem/A,800,03.08.2025
+5,"constructive algorithms, greedy",2082/problem/A,800,03.08.2025
+6,"math, number theory",2093/problem/C,1000,03.08.2025
+7,"greedy, math",2093/problem/B,900,03.08.2025
+8,math,2093/problem/A,800,03.08.2025
+9,"greedy, math",2062/problem/B,900,03.08.2025
+10,"combinatorics, constructive algorithms, strings",2072/problem/B,900,03.08.2025
+11,"greedy, implementation, math",2072/problem/A,800,03.08.2025
+12,"bitmasks, brute force, geometry, greedy, probabilities",2074/problem/C,1100,03.08.2025
+13,"geometry, greedy, math",2074/problem/B,800,03.08.2025
+14,"geometry, implementation",2074/problem/A,800,03.08.2025
+15,"constructive algorithms, math",2102/problem/A,900,03.08.2025
+16,"constructive algorithms, math",2084/problem/A,800,03.08.2025
+17,"brute force, constructive algorithms, games, greedy, math",2104/problem/C,1100,03.08.2025
+18,"brute force, data structures, dp, greedy, implementation",2104/problem/B,1000,03.08.2025
+19,math,2104/problem/A,800,03.08.2025
+20,"combinatorics, constructive algorithms, games, math",2030/problem/B,800,03.08.2025
+21,"binary search, brute force, greedy",2086/problem/B,1100,03.08.2025
+22,math,2086/problem/A,800,03.08.2025
+23,"math, sortings",2098/problem/B,1400,03.08.2025
+24,"brute force, greedy",2098/problem/A,800,03.08.2025
+25,"brute force, constructive algorithms, greedy, math",2071/problem/B,1100,03.08.2025
+26,"constructive algorithms, data structures, dfs and similar, dp, greedy, sortings, trees",2071/problem/C,1700,03.08.2025
+27,"math, number theory",2071/problem/A,800,03.08.2025
+28,"brute force, greedy, two pointers",2111/problem/C,1100,03.08.2025
+29,"brute force, dp, implementation, math",2111/problem/B,1100,03.08.2025
+30,"greedy, implementation, math",2111/problem/A,800,03.08.2025
+31,"dp, greedy",2114/problem/C,1000,03.08.2025
+32,"greedy, math",2114/problem/B,900,03.08.2025
+33,"greedy, math, sortings",2116/problem/B,1300,03.08.2025
+34,"games, greedy",2116/problem/A,800,03.08.2025
+35,greedy,2124/problem/B,1000,03.08.2025
+36,"greedy, sortings",2124/problem/A,800,03.08.2025
+37,"combinatorics, dp, math",2119/problem/D,2100,03.08.2025
+38,"bitmasks, constructive algorithms, math",2119/problem/C,1300,03.08.2025
+39,"geometry, greedy, math",2119/problem/B,1200,03.08.2025
+40,"bitmasks, greedy, math",2119/problem/A,800,03.08.2025
+41,"brute force, data structures",2123/problem/C,1000,03.08.2025
+42,greedy,2123/problem/B,800,03.08.2025
+43,math,2123/problem/A,800,03.08.2025
+44,"greedy, sortings",2126/problem/C,1100,03.08.2025
+45,"dp, greedy",2126/problem/B,800,03.08.2025
+46,"brute force, implementation, math",2126/problem/A,800,03.08.2025
+47,"greedy, math, number theory",2084/problem/B,1100,02.08.2025
+48,constructive algorithms,1634/problem/C,1000,02.08.2025
+49,"implementation, math",168/problem/A,900,27.07.2025
+50,"data structures, trees",339/problem/D,1700,25.07.2025
+51,"constructive algorithms, implementation",1365/problem/B,1300,14.07.2025
+52,"sortings, strings",1552/problem/A,800,13.07.2025
+53,"math, number theory",1107/problem/B,1000,12.07.2025
+54,greedy,888/problem/B,1000,12.07.2025
+55,"brute force, sortings",710/problem/B,1400,12.07.2025
+56,"greedy, math, sortings",1189/problem/B,1100,12.07.2025
+57,"greedy, implementation",1139/problem/B,1000,11.07.2025
+58,"greedy, implementation, sortings",1300/problem/B,1000,11.07.2025
+59,"math, sortings",1427/problem/A,900,10.07.2025
+60,"binary search, data structures, sortings, two pointers",600/problem/B,1300,08.07.2025
+61,"greedy, sortings",160/problem/A,900,29.06.2025
+62,implementation,2038/problem/N,800,29.06.2025
+63,"implementation, strings",1791/problem/A,800,29.06.2025
+64,implementation,677/problem/A,800,29.06.2025
+65,implementation,467/problem/A,800,29.06.2025
+66,"implementation, strings",785/problem/A,800,29.06.2025
+67,"greedy, strings",58/problem/A,1000,29.06.2025
+68,implementation,1030/problem/A,800,29.06.2025
+69,implementation,977/problem/A,800,29.06.2025
+70,"implementation, math",69/problem/A,1000,29.06.2025
+71,implementation,705/problem/A,800,29.06.2025
+72,implementation,61/problem/A,800,29.06.2025
+73,math,1328/problem/A,800,29.06.2025
+74,"brute force, math",479/problem/A,1000,29.06.2025
+75,"implementation, math",2047/problem/A,800,29.06.2025
+76,"constructive algorithms, number theory",2039/problem/A,800,29.06.2025
+77,"implementation, sortings",2041/problem/A,1300,29.06.2025
+78,"brute force, constructive algorithms, implementation, math",732/problem/A,800,29.06.2025
+79,brute force,268/problem/A,800,29.06.2025
+80,implementation,2036/problem/A,800,29.06.2025
+81,math,1335/problem/A,800,29.06.2025
+82,"implementation, math",2035/problem/A,800,29.06.2025
+83,implementation,1742/problem/A,800,29.06.2025
+84,"brute force, chinese remainder theorem, math, number theory",2034/problem/A,800,29.06.2025
+85,"constructive algorithms, greedy, math, sortings",2030/problem/A,800,29.06.2025
+86,"math, number theory",2063/problem/A,800,29.06.2025
+87,"constructive algorithms, greedy, math, strings",2062/problem/A,800,29.06.2025
+88,"brute force, greedy, implementation, math, number theory",2048/problem/A,800,29.06.2025
+89,"implementation, strings",1985/problem/A,800,29.06.2025
+90,brute force,2060/problem/A,800,29.06.2025
+91,"brute force, math",2043/problem/A,800,29.06.2025
+92,"brute force, constructive algorithms, greedy, implementation, strings",2065/problem/A,800,29.06.2025
+93,"brute force, geometry, math, sortings",1986/problem/A,800,29.06.2025
+94,implementation,2050/problem/A,800,29.06.2025
+95,"implementation, math",486/problem/A,800,29.06.2025
+96,implementation,344/problem/A,800,29.06.2025
+97,math,2061/problem/A,800,29.06.2025
+98,"greedy, math",1987/problem/A,800,29.06.2025
+99,implementation,266/problem/A,800,29.06.2025
+100,"implementation, math",151/problem/A,800,29.06.2025
+101,"greedy, sortings",2042/problem/A,800,29.06.2025
+102,math,318/problem/A,900,29.06.2025
+103,"binary search, math",2051/problem/B,800,29.06.2025
+104,math,2094/problem/C,900,29.06.2025
+105,"brute force, constructive algorithms",2094/problem/B,800,29.06.2025
+106,"dp, greedy, sortings",2091/problem/B,800,29.06.2025
+107,strings,2094/problem/A,800,29.06.2025
+108,"binary search, dp, ternary search",2120/problem/E,2300,29.06.2025
+109,"constructive algorithms, greedy",2118/problem/A,800,29.06.2025
+110,"greedy, math",1834/problem/A,800,28.06.2025
+111,"constructive algorithms, math, number theory",1859/problem/A,800,28.06.2025
+112,"constructive algorithms, implementation, math, number theory",1845/problem/A,800,28.06.2025
+113,"geometry, greedy, math",1806/problem/A,800,28.06.2025
+114,"constructive algorithms, math, sortings",1783/problem/A,800,28.06.2025
+115,"implementation, two pointers",1791/problem/C,800,28.06.2025
+116,"brute force, implementation, math",1788/problem/A,800,28.06.2025
+117,"brute force, constructive algorithms",1761/problem/A,800,28.06.2025
+118,"games, greedy, math",1858/problem/A,800,28.06.2025
+119,"brute force, strings",1881/problem/A,800,28.06.2025
+120,"implementation, math",1814/problem/A,800,28.06.2025
+121,"bitmasks, brute force",1805/problem/A,800,28.06.2025
+122,math,1866/problem/A,800,28.06.2025
+123,"constructive algorithms, math, number theory",1370/problem/B,1100,28.06.2025
+124,"dp, implementation",1206/problem/B,900,28.06.2025
+125,"math, sortings",1206/problem/A,800,28.06.2025
+126,"brute force, math",1269/problem/A,800,28.06.2025
+127,"brute force, constructive algorithms, greedy, sortings",1305/problem/A,800,28.06.2025
+128,"brute force, data structures, number theory, two pointers",1364/problem/A,1200,27.06.2025
+129,strings,2065/problem/B,800,25.06.2025
+130,"graph matchings, greedy",2069/problem/A,800,25.06.2025
+131,math,2078/problem/A,800,25.06.2025
+132,"brute force, constructive algorithms, math",2067/problem/A,800,24.06.2025
+133,"greedy, math",2075/problem/A,800,24.06.2025
+134,"constructive algorithms, greedy, math",2106/problem/B,900,24.06.2025
+135,"brute force, math",2106/problem/A,800,24.06.2025
+136,"greedy, math",2113/problem/A,800,24.06.2025
+137,"binary search, brute force, math",2114/problem/A,800,24.06.2025
+138,constructive algorithms,2117/problem/B,800,24.06.2025
+139,sortings,1896/problem/A,800,24.06.2025
+140,"greedy, implementation",2117/problem/A,800,24.06.2025
+141,"greedy, math",1901/problem/A,800,23.06.2025
+142,"brute force, greedy, sortings",1903/problem/A,800,23.06.2025
+143,"brute force, greedy",2112/problem/B,1100,23.06.2025
+144,"combinatorics, dfs and similar, dp, graphs, math, number theory, trees",2112/problem/E,2200,23.06.2025
+145,"implementation, math",2112/problem/A,800,23.06.2025
+146,number theory,26/problem/A,900,23.06.2025
+147,"greedy, greedy, implementation",2121/problem/C,1200,22.06.2025
+148,"constructive algorithms, greedy, strings",2121/problem/B,800,22.06.2025
+149,"brute force, math",2121/problem/A,800,22.06.2025
+150,geometry,2120/problem/B,1000,22.06.2025
+151,"data structures, implementation",1722/problem/C,800,22.06.2025
+152,implementation,1722/problem/B,800,22.06.2025
+153,implementation,1722/problem/A,800,22.06.2025
+154,"data structures, implementation",1703/problem/B,800,22.06.2025
+155,"brute force, implementation, strings",1703/problem/A,800,22.06.2025
+156,implementation,1692/problem/C,800,22.06.2025
+157,"greedy, sortings",1692/problem/B,800,22.06.2025
+158,implementation,1692/problem/A,800,22.06.2025
+159,"greedy, math, sortings",1676/problem/B,800,22.06.2025
+160,implementation,1676/problem/A,800,22.06.2025
+161,"implementation, sortings",1669/problem/B,800,22.06.2025
+162,implementation,1669/problem/A,800,22.06.2025
+163,"implementation, math",1352/problem/A,800,22.06.2025
+164,"implementation, math",200/problem/B,800,22.06.2025
+165,"implementation, math",233/problem/A,800,22.06.2025
+166,brute force,80/problem/A,800,22.06.2025
+167,"implementation, strings",281/problem/A,800,22.06.2025
+168,"implementation, strings",59/problem/A,800,22.06.2025
+169,brute force,271/problem/A,800,22.06.2025
+170,"expression parsing, implementation",32/problem/B,800,22.06.2025
+171,"constructive algorithms, graph matchings, implementation, shortest paths",266/problem/B,800,22.06.2025
+172,implementation,263/problem/A,800,22.06.2025
+173,"greedy, math",1777/problem/A,800,22.06.2025
+174,"brute force, implementation",1766/problem/A,800,22.06.2025
+175,"geometry, math",2120/problem/A,800,21.06.2025
+176,"brute force, greedy, math",1853/problem/A,800,21.06.2025
+177,"greedy, math",1857/problem/A,800,21.06.2025
+178,constructive algorithms,1862/problem/B,800,21.06.2025
+179,math,1877/problem/A,800,21.06.2025
+180,greedy,1878/problem/A,800,21.06.2025
+181,"implementation, math",1873/problem/C,800,20.06.2025
+182,constructive algorithms,1890/problem/A,800,20.06.2025
+183,"games, math, number theory",1899/problem/A,800,20.06.2025
+184,"constructive algorithms, greedy, implementation, strings",1900/problem/A,800,20.06.2025
+185,constructive algorithms,1869/problem/A,900,20.06.2025
